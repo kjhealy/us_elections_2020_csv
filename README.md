@@ -1,7 +1,7 @@
 # US elections 2020
 ## @kjhealy
 
-- Results as of timestamp in file title. Not final.
+- Results as of YYYY_MM_DD_HH_MM_SS timestamp in file title. Not final.
 
 ## Columns
 
