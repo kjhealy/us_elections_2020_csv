@@ -13,5 +13,5 @@
 - `lname`: Candidate last name
 - `party`: Three-letter party code
 - `pab`: One letter party code
-- votes: N votes
-- incumbents: 1 = is incumbent, 0 otherwise
+- `votes`: N votes
+- `incumbent`: 1 = is incumbent, 0 otherwise
