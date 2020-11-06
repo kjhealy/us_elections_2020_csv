@@ -19,6 +19,6 @@
 ## FIPS codes
 The state-level FIPS codes, extracted from a page at the [NRCS](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696), are in `fips.csv`. The columns are as follows:
 
-- `region`: The state or region, i.e. 'Alabama'
+- `state`: The state or region, i.e. 'Alabama'
 - `abbr`: The postal code, i.e. 'AL'
 - `fips_char`: The abbreviation, i.e. '01'; note zero padding.
