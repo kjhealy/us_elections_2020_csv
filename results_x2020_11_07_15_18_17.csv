@@ -905,9 +905,9 @@ House,0200,02,NA,NA,Don,Young,REP,R,108473,1,1
 House,0200,02,NA,NA,Alyse,Galvin,DEM,D,62385,0,1
 House,0200,02,NA,NA,,Write-ins,WRI,O,611,0,0
 Governor,Alaska,02,NA,NA,NA,NA,NA,NA,NA,NA,NA
-President,0,04,NA,Arizona,Joe,Biden,DEM,D,1626943,0,1
-President,0,04,NA,Arizona,Donald,Trump,REP,R,1606370,1,1
-President,0,04,NA,Arizona,Jo,Jorgensen,LIB,O,49182,0,0
+President,0,04,NA,Arizona,Joe,Biden,DEM,D,1627060,0,1
+President,0,04,NA,Arizona,Donald,Trump,REP,R,1606546,1,1
+President,0,04,NA,Arizona,Jo,Jorgensen,LIB,O,49192,0,0
 President,0,04,NA,Arizona,,Write-ins,WRI,O,2107,0,0
 President,04017,04,04017,Navajo County,Donald,Trump,REP,R,27417,1,1
 President,04017,04,04017,Navajo County,Joe,Biden,DEM,D,23217,0,1
@@ -935,9 +935,9 @@ President,04001,04,04001,Apache County,Jo,Jorgensen,LIB,O,268,0,0
 President,04003,04,04003,Cochise County,Donald,Trump,REP,R,31265,1,1
 President,04003,04,04003,Cochise County,Joe,Biden,DEM,D,21980,0,1
 President,04003,04,04003,Cochise County,Jo,Jorgensen,LIB,O,990,0,0
-President,04005,04,04005,Coconino County,Joe,Biden,DEM,D,44103,0,1
-President,04005,04,04005,Coconino County,Donald,Trump,REP,R,26519,1,1
-President,04005,04,04005,Coconino County,Jo,Jorgensen,LIB,O,1488,0,0
+President,04005,04,04005,Coconino County,Joe,Biden,DEM,D,44220,0,1
+President,04005,04,04005,Coconino County,Donald,Trump,REP,R,26695,1,1
+President,04005,04,04005,Coconino County,Jo,Jorgensen,LIB,O,1498,0,0
 President,04007,04,04007,Gila County,Donald,Trump,REP,R,18375,1,1
 President,04007,04,04007,Gila County,Joe,Biden,DEM,D,8943,0,1
 President,04007,04,04007,Gila County,Jo,Jorgensen,LIB,O,342,0,0
@@ -956,8 +956,8 @@ President,04013,04,04013,Maricopa County,Jo,Jorgensen,LIB,O,30959,0,0
 President,04015,04,04015,Mohave County,Donald,Trump,REP,R,77724,1,1
 President,04015,04,04015,Mohave County,Joe,Biden,DEM,D,24687,0,1
 President,04015,04,04015,Mohave County,Jo,Jorgensen,LIB,O,1281,0,0
-Senate,0,04,NA,Arizona,Mark,Kelly,DEM,D,1669156,0,1
-Senate,0,04,NA,Arizona,Martha,McSally,REP,R,1584036,1,1
+Senate,0,04,NA,Arizona,Mark,Kelly,DEM,D,1669279,0,1
+Senate,0,04,NA,Arizona,Martha,McSally,REP,R,1584219,1,1
 Senate,0,04,NA,Arizona,,Write-ins,WRI,O,1582,0,0
 Senate,04017,04,04017,Navajo County,Martha,McSally,REP,R,26721,1,1
 Senate,04017,04,04017,Navajo County,Mark,Kelly,DEM,D,24218,0,1
@@ -977,8 +977,8 @@ Senate,04001,04,04001,Apache County,Mark,Kelly,DEM,D,17070,0,1
 Senate,04001,04,04001,Apache County,Martha,McSally,REP,R,7235,1,1
 Senate,04003,04,04003,Cochise County,Martha,McSally,REP,R,31022,1,1
 Senate,04003,04,04003,Cochise County,Mark,Kelly,DEM,D,22879,0,1
-Senate,04005,04,04005,Coconino County,Mark,Kelly,DEM,D,44946,0,1
-Senate,04005,04,04005,Coconino County,Martha,McSally,REP,R,26716,1,1
+Senate,04005,04,04005,Coconino County,Mark,Kelly,DEM,D,45069,0,1
+Senate,04005,04,04005,Coconino County,Martha,McSally,REP,R,26899,1,1
 Senate,04007,04,04007,Gila County,Martha,McSally,REP,R,17887,1,1
 Senate,04007,04,04007,Gila County,Mark,Kelly,DEM,D,9648,0,1
 Senate,04009,04,04009,Graham County,Martha,McSally,REP,R,10301,1,1
@@ -991,8 +991,8 @@ Senate,04013,04,04013,Maricopa County,Mark,Kelly,DEM,D,1046859,0,1
 Senate,04013,04,04013,Maricopa County,Martha,McSally,REP,R,966386,1,1
 Senate,04015,04,04015,Mohave County,Martha,McSally,REP,R,74608,1,1
 Senate,04015,04,04015,Mohave County,Mark,Kelly,DEM,D,27220,0,1
-House,0401,04,NA,NA,Tom,O'Halleran,DEM,D,175841,1,1
-House,0401,04,NA,NA,Tiffany,Shedd,REP,R,164636,0,1
+House,0401,04,NA,NA,Tom,O'Halleran,DEM,D,175968,1,1
+House,0401,04,NA,NA,Tiffany,Shedd,REP,R,164808,0,1
 House,0402,04,NA,NA,Ann,Kirkpatrick,DEM,D,202875,1,1
 House,0402,04,NA,NA,Brandon,Martin,REP,R,160490,0,1
 House,0402,04,NA,NA,,Write-ins,WRI,O,506,0,0
@@ -4376,10 +4376,10 @@ House,0807,08,NA,NA,Casper,Stockham,REP,R,158801,0,1
 House,0807,08,NA,NA,Ken,Biles,LIB,O,11427,0,0
 House,0807,08,NA,NA,David,Olszta,UTY,O,2340,0,0
 Governor,Colorado,08,NA,NA,NA,NA,NA,NA,NA,NA,NA
-President,0,09,NA,Connecticut,Joe,Biden,DEM,D,1058827,0,1
-President,0,09,NA,Connecticut,Donald,Trump,REP,R,698847,1,1
-President,0,09,NA,Connecticut,Jo,Jorgensen,LIB,O,20151,0,0
-President,0,09,NA,Connecticut,Howie,Hawkins,GRN,O,7445,0,0
+President,0,09,NA,Connecticut,Joe,Biden,DEM,D,1059216,0,1
+President,0,09,NA,Connecticut,Donald,Trump,REP,R,699049,1,1
+President,0,09,NA,Connecticut,Jo,Jorgensen,LIB,O,20158,0,0
+President,0,09,NA,Connecticut,Howie,Hawkins,GRN,O,7449,0,0
 President,0,09,NA,Connecticut,,Write-ins,WRI,O,612,0,0
 President,0900554030,09,09005,North Canaan,Joe,Biden,DEM,D,862,0,1
 President,0900554030,09,09005,North Canaan,Donald,Trump,REP,R,812,1,1
@@ -4651,10 +4651,10 @@ President,0900579510,09,09005,Warren,Joe,Biden,DEM,D,465,0,1
 President,0900579510,09,09005,Warren,Jo,Jorgensen,LIB,O,9,0,0
 President,0900579510,09,09005,Warren,Howie,Hawkins,GRN,O,1,0,0
 President,0900579510,09,09005,Warren,,Write-ins,WRI,O,0,0,0
-President,0900907310,09,09009,Branford,Joe,Biden,DEM,D,10173,0,1
-President,0900907310,09,09009,Branford,Donald,Trump,REP,R,6896,1,1
-President,0900907310,09,09009,Branford,Jo,Jorgensen,LIB,O,171,0,0
-President,0900907310,09,09009,Branford,Howie,Hawkins,GRN,O,64,0,0
+President,0900907310,09,09009,Branford,Joe,Biden,DEM,D,10562,0,1
+President,0900907310,09,09009,Branford,Donald,Trump,REP,R,7098,1,1
+President,0900907310,09,09009,Branford,Jo,Jorgensen,LIB,O,178,0,0
+President,0900907310,09,09009,Branford,Howie,Hawkins,GRN,O,68,0,0
 President,0900907310,09,09009,Branford,,Write-ins,WRI,O,7,0,0
 President,0900579720,09,09005,Washington,Joe,Biden,DEM,D,1461,0,1
 President,0900579720,09,09005,Washington,Donald,Trump,REP,R,770,1,1
@@ -5234,9 +5234,9 @@ House,0902,09,NA,NA,Joe,Courtney,DEM,D,217796,1,1
 House,0902,09,NA,NA,Justin,Anderson,REP,R,140309,0,1
 House,0902,09,NA,NA,Cassandra,Martineau,GRN,O,4947,0,0
 House,0902,09,NA,NA,Daniel,Reale,LIB,O,3895,0,0
-House,0903,09,NA,NA,Rosa,DeLauro,DEM,D,202471,1,1
-House,0903,09,NA,NA,Margaret,Streicker,REP,R,137911,0,1
-House,0903,09,NA,NA,Justin,Paglino,GRN,O,5187,0,0
+House,0903,09,NA,NA,Rosa,DeLauro,DEM,D,202840,1,1
+House,0903,09,NA,NA,Margaret,Streicker,REP,R,138110,0,1
+House,0903,09,NA,NA,Justin,Paglino,GRN,O,5200,0,0
 House,0904,09,NA,NA,Jim,Himes,DEM,D,218416,1,1
 House,0904,09,NA,NA,Jonathan,Riddle,REP,R,128270,0,1
 House,0904,09,NA,NA,Brian,Merlen,IP,O,5322,0,0
@@ -5899,9 +5899,9 @@ House,1227,12,NA,NA,Maria Elvira,Salazar,REP,R,176114,0,1
 House,1227,12,NA,NA,Donna,Shalala,DEM,D,166705,1,1
 House,1227,12,NA,NA,,Write-ins,WRI,O,457,0,0
 Governor,Florida,12,NA,NA,NA,NA,NA,NA,NA,NA,NA
-President,0,13,NA,Georgia,Joe,Biden,DEM,D,2461455,0,1
-President,0,13,NA,Georgia,Donald,Trump,REP,R,2454207,1,1
-President,0,13,NA,Georgia,Jo,Jorgensen,LIB,O,61792,0,0
+President,0,13,NA,Georgia,Joe,Biden,DEM,D,2462099,0,1
+President,0,13,NA,Georgia,Donald,Trump,REP,R,2454552,1,1
+President,0,13,NA,Georgia,Jo,Jorgensen,LIB,O,61814,0,0
 President,0,13,NA,Georgia,,Write-ins,WRI,O,627,0,0
 President,13001,13,13001,Appling County,Donald,Trump,REP,R,6526,1,1
 President,13001,13,13001,Appling County,Joe,Biden,DEM,D,1779,0,1
@@ -6010,10 +6010,9 @@ President,13063,13,13063,Clayton County,Jo,Jorgensen,LIB,O,1041,0,0
 President,13065,13,13065,Clinch County,Donald,Trump,REP,R,2105,1,1
 President,13065,13,13065,Clinch County,Joe,Biden,DEM,D,747,0,1
 President,13065,13,13065,Clinch County,Jo,Jorgensen,LIB,O,12,0,0
-President,13067,13,13067,Cobb County,Joe,Biden,DEM,D,221234,0,1
-President,13067,13,13067,Cobb County,Donald,Trump,REP,R,164965,1,1
-President,13067,13,13067,Cobb County,Jo,Jorgensen,LIB,O,6415,0,0
-President,13067,13,13067,Cobb County,,Write-ins,WRI,O,0,0,0
+President,13067,13,13067,Cobb County,Joe,Biden,DEM,D,221730,0,1
+President,13067,13,13067,Cobb County,Donald,Trump,REP,R,165178,1,1
+President,13067,13,13067,Cobb County,Jo,Jorgensen,LIB,O,6432,0,0
 President,13069,13,13069,Coffee County,Donald,Trump,REP,R,10532,1,1
 President,13069,13,13069,Coffee County,Joe,Biden,DEM,D,4463,0,1
 President,13069,13,13069,Coffee County,Jo,Jorgensen,LIB,O,124,0,0
@@ -6021,10 +6020,9 @@ President,13069,13,13069,Coffee County,,Write-ins,WRI,O,23,0,0
 President,13071,13,13071,Colquitt County,Donald,Trump,REP,R,11776,1,1
 President,13071,13,13071,Colquitt County,Joe,Biden,DEM,D,4185,0,1
 President,13071,13,13071,Colquitt County,Jo,Jorgensen,LIB,O,119,0,0
-President,13073,13,13073,Columbia County,Donald,Trump,REP,R,49952,1,1
-President,13073,13,13073,Columbia County,Joe,Biden,DEM,D,29175,0,1
-President,13073,13,13073,Columbia County,Jo,Jorgensen,LIB,O,1327,0,0
-President,13073,13,13073,Columbia County,,Write-ins,WRI,O,0,0,0
+President,13073,13,13073,Columbia County,Donald,Trump,REP,R,50013,1,1
+President,13073,13,13073,Columbia County,Joe,Biden,DEM,D,29236,0,1
+President,13073,13,13073,Columbia County,Jo,Jorgensen,LIB,O,1330,0,0
 President,13075,13,13075,Cook County,Donald,Trump,REP,R,4900,1,1
 President,13075,13,13075,Cook County,Joe,Biden,DEM,D,2059,0,1
 President,13075,13,13075,Cook County,Jo,Jorgensen,LIB,O,76,0,0
@@ -6294,9 +6292,9 @@ President,13243,13,13243,Randolph County,Jo,Jorgensen,LIB,O,12,0,0
 President,13245,13,13245,Richmond County,Joe,Biden,DEM,D,58776,0,1
 President,13245,13,13245,Richmond County,Donald,Trump,REP,R,26707,1,1
 President,13245,13,13245,Richmond County,Jo,Jorgensen,LIB,O,1101,0,0
-President,13247,13,13247,Rockdale County,Joe,Biden,DEM,D,31199,0,1
-President,13247,13,13247,Rockdale County,Donald,Trump,REP,R,12990,1,1
-President,13247,13,13247,Rockdale County,Jo,Jorgensen,LIB,O,428,0,0
+President,13247,13,13247,Rockdale County,Joe,Biden,DEM,D,31243,0,1
+President,13247,13,13247,Rockdale County,Donald,Trump,REP,R,13012,1,1
+President,13247,13,13247,Rockdale County,Jo,Jorgensen,LIB,O,430,0,0
 President,13249,13,13249,Schley County,Donald,Trump,REP,R,1800,1,1
 President,13249,13,13249,Schley County,Joe,Biden,DEM,D,462,0,1
 President,13249,13,13249,Schley County,Jo,Jorgensen,LIB,O,13,0,0
@@ -6353,10 +6351,9 @@ President,13281,13,13281,Towns County,Jo,Jorgensen,LIB,O,45,0,0
 President,13283,13,13283,Treutlen County,Donald,Trump,REP,R,2101,1,1
 President,13283,13,13283,Treutlen County,Joe,Biden,DEM,D,952,0,1
 President,13283,13,13283,Treutlen County,Jo,Jorgensen,LIB,O,24,0,0
-President,13285,13,13285,Troup County,Donald,Trump,REP,R,18097,1,1
-President,13285,13,13285,Troup County,Joe,Biden,DEM,D,11542,0,1
+President,13285,13,13285,Troup County,Donald,Trump,REP,R,18146,1,1
+President,13285,13,13285,Troup County,Joe,Biden,DEM,D,11585,0,1
 President,13285,13,13285,Troup County,Jo,Jorgensen,LIB,O,328,0,0
-President,13285,13,13285,Troup County,,Write-ins,WRI,O,0,0,0
 President,13287,13,13287,Turner County,Donald,Trump,REP,R,2349,1,1
 President,13287,13,13287,Turner County,Joe,Biden,DEM,D,1410,0,1
 President,13287,13,13287,Turner County,Jo,Jorgensen,LIB,O,33,0,0
@@ -6419,10 +6416,10 @@ President,13321,13,13321,Worth County,Donald,Trump,REP,R,6826,1,1
 President,13321,13,13321,Worth County,Joe,Biden,DEM,D,2395,0,1
 President,13321,13,13321,Worth County,Jo,Jorgensen,LIB,O,60,0,0
 President,13321,13,13321,Worth County,,Write-ins,WRI,O,0,0,0
-Senate,0,13,NA,Georgia,David,Perdue,REP,R,2455077,1,1
-Senate,0,13,NA,Georgia,Jon,Ossoff,DEM,D,2362076,0,1
-Senate,0,13,NA,Georgia,Shane,Hazel,LIB,O,114406,0,1
-Senate,0,13,NA,Georgia,,Write-ins,WRI,O,658,0,0
+Senate,0,13,NA,Georgia,David,Perdue,REP,R,2455408,1,1
+Senate,0,13,NA,Georgia,Jon,Ossoff,DEM,D,2362656,0,1
+Senate,0,13,NA,Georgia,Shane,Hazel,LIB,O,114445,0,1
+Senate,0,13,NA,Georgia,,Write-ins,WRI,O,381,0,0
 Senate,13001,13,13001,Appling County,David,Perdue,REP,R,6306,1,1
 Senate,13001,13,13001,Appling County,Jon,Ossoff,DEM,D,1753,0,1
 Senate,13001,13,13001,Appling County,Shane,Hazel,LIB,O,128,0,1
@@ -6529,10 +6526,9 @@ Senate,13063,13,13063,Clayton County,Shane,Hazel,LIB,O,2467,0,1
 Senate,13065,13,13065,Clinch County,David,Perdue,REP,R,2083,1,1
 Senate,13065,13,13065,Clinch County,Jon,Ossoff,DEM,D,660,0,1
 Senate,13065,13,13065,Clinch County,Shane,Hazel,LIB,O,54,0,1
-Senate,13067,13,13067,Cobb County,Jon,Ossoff,DEM,D,210280,0,1
-Senate,13067,13,13067,Cobb County,David,Perdue,REP,R,169173,1,1
-Senate,13067,13,13067,Cobb County,Shane,Hazel,LIB,O,10227,0,1
-Senate,13067,13,13067,Cobb County,,Write-ins,WRI,O,277,0,0
+Senate,13067,13,13067,Cobb County,Jon,Ossoff,DEM,D,210741,0,1
+Senate,13067,13,13067,Cobb County,David,Perdue,REP,R,169372,1,1
+Senate,13067,13,13067,Cobb County,Shane,Hazel,LIB,O,10253,0,1
 Senate,13069,13,13069,Coffee County,David,Perdue,REP,R,10380,1,1
 Senate,13069,13,13069,Coffee County,Jon,Ossoff,DEM,D,4237,0,1
 Senate,13069,13,13069,Coffee County,Shane,Hazel,LIB,O,284,0,1
@@ -6540,9 +6536,9 @@ Senate,13069,13,13069,Coffee County,,Write-ins,WRI,O,14,0,0
 Senate,13071,13,13071,Colquitt County,David,Perdue,REP,R,11643,1,1
 Senate,13071,13,13071,Colquitt County,Jon,Ossoff,DEM,D,3989,0,1
 Senate,13071,13,13071,Colquitt County,Shane,Hazel,LIB,O,256,0,1
-Senate,13073,13,13073,Columbia County,David,Perdue,REP,R,50158,1,1
-Senate,13073,13,13073,Columbia County,Jon,Ossoff,DEM,D,27709,0,1
-Senate,13073,13,13073,Columbia County,Shane,Hazel,LIB,O,1921,0,1
+Senate,13073,13,13073,Columbia County,David,Perdue,REP,R,50220,1,1
+Senate,13073,13,13073,Columbia County,Jon,Ossoff,DEM,D,27759,0,1
+Senate,13073,13,13073,Columbia County,Shane,Hazel,LIB,O,1928,0,1
 Senate,13075,13,13075,Cook County,David,Perdue,REP,R,4864,1,1
 Senate,13075,13,13075,Cook County,Jon,Ossoff,DEM,D,1963,0,1
 Senate,13075,13,13075,Cook County,Shane,Hazel,LIB,O,145,0,1
@@ -6811,9 +6807,9 @@ Senate,13243,13,13243,Randolph County,Shane,Hazel,LIB,O,31,0,1
 Senate,13245,13,13245,Richmond County,Jon,Ossoff,DEM,D,56474,0,1
 Senate,13245,13,13245,Richmond County,David,Perdue,REP,R,26973,1,1
 Senate,13245,13,13245,Richmond County,Shane,Hazel,LIB,O,2113,0,1
-Senate,13247,13,13247,Rockdale County,Jon,Ossoff,DEM,D,30605,0,1
-Senate,13247,13,13247,Rockdale County,David,Perdue,REP,R,12696,1,1
-Senate,13247,13,13247,Rockdale County,Shane,Hazel,LIB,O,903,0,1
+Senate,13247,13,13247,Rockdale County,Jon,Ossoff,DEM,D,30641,0,1
+Senate,13247,13,13247,Rockdale County,David,Perdue,REP,R,12716,1,1
+Senate,13247,13,13247,Rockdale County,Shane,Hazel,LIB,O,906,0,1
 Senate,13249,13,13249,Schley County,David,Perdue,REP,R,1783,1,1
 Senate,13249,13,13249,Schley County,Jon,Ossoff,DEM,D,439,0,1
 Senate,13249,13,13249,Schley County,Shane,Hazel,LIB,O,34,0,1
@@ -6869,10 +6865,9 @@ Senate,13281,13,13281,Towns County,Shane,Hazel,LIB,O,146,0,1
 Senate,13283,13,13283,Treutlen County,David,Perdue,REP,R,2078,1,1
 Senate,13283,13,13283,Treutlen County,Jon,Ossoff,DEM,D,893,0,1
 Senate,13283,13,13283,Treutlen County,Shane,Hazel,LIB,O,52,0,1
-Senate,13285,13,13285,Troup County,David,Perdue,REP,R,18115,1,1
-Senate,13285,13,13285,Troup County,Jon,Ossoff,DEM,D,11085,0,1
-Senate,13285,13,13285,Troup County,Shane,Hazel,LIB,O,533,0,1
-Senate,13285,13,13285,Troup County,,Write-ins,WRI,O,0,0,0
+Senate,13285,13,13285,Troup County,David,Perdue,REP,R,18165,1,1
+Senate,13285,13,13285,Troup County,Jon,Ossoff,DEM,D,11118,0,1
+Senate,13285,13,13285,Troup County,Shane,Hazel,LIB,O,536,0,1
 Senate,13287,13,13287,Turner County,David,Perdue,REP,R,2334,1,1
 Senate,13287,13,13287,Turner County,Jon,Ossoff,DEM,D,1345,0,1
 Senate,13287,13,13287,Turner County,Shane,Hazel,LIB,O,62,0,1
@@ -6939,15 +6934,15 @@ House,1301,13,NA,NA,Joyce,Griggs,DEM,D,135152,0,1
 House,1302,13,NA,NA,Sanford,Bishop,DEM,D,161123,1,1
 House,1302,13,NA,NA,Don,Cole,REP,R,111549,0,1
 House,1302,13,NA,NA,,Write-ins,WRI,O,40,0,0
-House,1303,13,NA,NA,Drew,Ferguson,REP,R,240003,1,1
-House,1303,13,NA,NA,Val,Almonord,DEM,D,128957,0,1
+House,1303,13,NA,NA,Drew,Ferguson,REP,R,240055,1,1
+House,1303,13,NA,NA,Val,Almonord,DEM,D,128991,0,1
 House,1303,13,NA,NA,,Write-ins,WRI,O,18,0,0
-House,1304,13,NA,NA,Hank,Johnson,DEM,D,277616,1,1
-House,1304,13,NA,NA,Johsie,Ezammudeen,REP,R,69231,0,1
+House,1304,13,NA,NA,Hank,Johnson,DEM,D,277659,1,1
+House,1304,13,NA,NA,Johsie,Ezammudeen,REP,R,69248,0,1
 House,1305,13,NA,NA,Nikema,Williams,DEM,D,297796,1,1
 House,1305,13,NA,NA,Angela,Stanton-King,REP,R,52107,0,1
-House,1306,13,NA,NA,Lucy,McBath,DEM,D,215680,1,1
-House,1306,13,NA,NA,Karen,Handel,REP,R,179398,0,1
+House,1306,13,NA,NA,Lucy,McBath,DEM,D,215766,1,1
+House,1306,13,NA,NA,Karen,Handel,REP,R,179445,0,1
 House,1307,13,NA,NA,Carolyn,Bourdeaux,DEM,D,190476,0,1
 House,1307,13,NA,NA,Rich,McCormick,REP,R,180290,1,1
 House,1308,13,NA,NA,Austin,Scott,REP,R,201074,1,1
@@ -6956,18 +6951,16 @@ House,1308,13,NA,NA,,Write-ins,WRI,O,37,0,0
 House,1309,13,NA,NA,Andrew,Clyde,REP,R,292393,1,1
 House,1309,13,NA,NA,Devin,Pandy,DEM,D,79653,0,1
 House,1309,13,NA,NA,,Write-ins,WRI,O,3,0,0
-House,1310,13,NA,NA,Jody,Hice,REP,R,235519,1,1
-House,1310,13,NA,NA,Tabitha,Johnson-Green,DEM,D,142519,0,1
+House,1310,13,NA,NA,Jody,Hice,REP,R,235530,1,1
+House,1310,13,NA,NA,Tabitha,Johnson-Green,DEM,D,142522,0,1
 House,1310,13,NA,NA,,Write-ins,WRI,O,60,0,0
-House,1311,13,NA,NA,Barry,Loudermilk,REP,R,244922,1,1
-House,1311,13,NA,NA,Dana,Barrett,DEM,D,160286,0,1
-House,1311,13,NA,NA,,Write-ins,WRI,O,107,0,0
-House,1312,13,NA,NA,Rick,Allen,REP,R,180828,1,1
-House,1312,13,NA,NA,Liz,Johnson,DEM,D,128612,0,1
+House,1311,13,NA,NA,Barry,Loudermilk,REP,R,245102,1,1
+House,1311,13,NA,NA,Dana,Barrett,DEM,D,160469,0,1
+House,1312,13,NA,NA,Rick,Allen,REP,R,180883,1,1
+House,1312,13,NA,NA,Liz,Johnson,DEM,D,128660,0,1
 House,1312,13,NA,NA,,Write-ins,WRI,O,7,0,0
-House,1313,13,NA,NA,David,Scott,DEM,D,277293,1,1
-House,1313,13,NA,NA,Becky,Hites,REP,R,80884,0,1
-House,1313,13,NA,NA,,Write-ins,WRI,O,89,0,0
+House,1313,13,NA,NA,David,Scott,DEM,D,277421,1,1
+House,1313,13,NA,NA,Becky,Hites,REP,R,80908,0,1
 House,1314,13,NA,NA,Marjorie Taylor,Greene,REP,R,227765,1,1
 House,1314,13,NA,NA,Kevin,Van Ausdal,DEM,D,76807,0,1
 House,1314,13,NA,NA,,Write-ins,WRI,O,323,0,0
@@ -10914,8 +10907,8 @@ Senate,19197,19,19197,Wright County,Rick,Stewart,LIB,O,158,0,0
 Senate,19197,19,19197,Wright County,Suzanne,Herzog,IND,O,75,0,0
 House,1901,19,NA,NA,Ashley,Hinson,REP,R,211679,0,1
 House,1901,19,NA,NA,Abby,Finkenauer,DEM,D,200893,1,1
-House,1902,19,NA,NA,Mariannette,Miller-Meeks,REP,R,196817,0,1
-House,1902,19,NA,NA,Rita,Hart,DEM,D,196571,1,1
+House,1902,19,NA,NA,Rita,Hart,DEM,D,196605,1,1
+House,1902,19,NA,NA,Mariannette,Miller-Meeks,REP,R,196444,0,1
 House,1903,19,NA,NA,Cindy,Axne,DEM,D,218969,1,1
 House,1903,19,NA,NA,David,Young,REP,R,212727,0,1
 House,1903,19,NA,NA,Bryan,Holder,LIB,O,15338,0,0
@@ -21870,8 +21863,8 @@ President,2502782000,25,25027,Worcester,Donald,Trump,REP,R,21018,1,1
 President,2502782000,25,25027,Worcester,Jo,Jorgensen,LIB,O,822,0,0
 President,2502782000,25,25027,Worcester,Howie,Hawkins,GRN,O,449,0,0
 President,2502782000,25,25027,Worcester,,Write-ins,WRI,O,323,0,0
-Senate,0,25,NA,Massachusetts,Ed,Markey,DEM,D,2174378,1,1
-Senate,0,25,NA,Massachusetts,Kevin,O'Connor,REP,R,1104576,0,1
+Senate,0,25,NA,Massachusetts,Ed,Markey,DEM,D,2175283,1,1
+Senate,0,25,NA,Massachusetts,Kevin,O'Connor,REP,R,1104805,0,1
 Senate,0,25,NA,Massachusetts,,Write-ins,WRI,O,24571,0,0
 Senate,2500103690,25,25001,Barnstable,Ed,Markey,DEM,D,15318,1,1
 Senate,2500103690,25,25001,Barnstable,Kevin,O'Connor,REP,R,11242,0,1
@@ -22257,8 +22250,8 @@ Senate,2501151265,25,25011,Orange,,Write-ins,WRI,O,0,0,0
 Senate,2501158335,25,25011,Rowe,Ed,Markey,DEM,D,149,1,1
 Senate,2501158335,25,25011,Rowe,Kevin,O'Connor,REP,R,109,0,1
 Senate,2501158335,25,25011,Rowe,,Write-ins,WRI,O,4,0,0
-Senate,2501161135,25,25011,Shelburne,Ed,Markey,DEM,D,0,1,1
-Senate,2501161135,25,25011,Shelburne,Kevin,O'Connor,REP,R,0,0,1
+Senate,2501161135,25,25011,Shelburne,Ed,Markey,DEM,D,905,1,1
+Senate,2501161135,25,25011,Shelburne,Kevin,O'Connor,REP,R,229,0,1
 Senate,2501161135,25,25011,Shelburne,,Write-ins,WRI,O,0,0,0
 Senate,2501161905,25,25011,Shutesbury,Ed,Markey,DEM,D,1150,1,1
 Senate,2501161905,25,25011,Shutesbury,Kevin,O'Connor,REP,R,151,0,1
@@ -22926,8 +22919,8 @@ Senate,2502780405,25,25027,Winchendon,,Write-ins,WRI,O,74,0,0
 Senate,2502782000,25,25027,Worcester,Ed,Markey,DEM,D,48596,1,1
 Senate,2502782000,25,25027,Worcester,Kevin,O'Connor,REP,R,19896,0,1
 Senate,2502782000,25,25027,Worcester,,Write-ins,WRI,O,653,0,0
-House,2501,25,NA,NA,Richard,Neal,DEM,D,237480,1,1
-House,2501,25,NA,NA,,Write-ins,WRI,O,9657,0,0
+House,2501,25,NA,NA,Richard,Neal,DEM,D,238403,1,1
+House,2501,25,NA,NA,,Write-ins,WRI,O,9705,0,0
 House,2502,25,NA,NA,Jim,McGovern,DEM,D,234594,1,1
 House,2502,25,NA,NA,Tracy,Lovvorn,REP,R,118050,0,1
 House,2502,25,NA,NA,,Write-ins,WRI,O,514,0,0
@@ -32683,12 +32676,12 @@ House,3627,36,NA,NA,Nate,McMurray,DEM,D,110019,0,1
 House,3627,36,NA,NA,Duane,Whitmer,LIB,O,4139,0,0
 House,3627,36,NA,NA,,Write-ins,WRI,O,1,0,0
 Governor,New York,36,NA,NA,NA,NA,NA,NA,NA,NA,NA
-President,0,37,NA,North Carolina,Donald,Trump,REP,R,2732818,1,1
-President,0,37,NA,North Carolina,Joe,Biden,DEM,D,2656303,0,1
-President,0,37,NA,North Carolina,Jo,Jorgensen,LIB,O,47253,0,0
-President,0,37,NA,North Carolina,Howie,Hawkins,GRN,O,11836,0,0
-President,0,37,NA,North Carolina,,Write-ins,WRI,O,7516,0,0
-President,0,37,NA,North Carolina,Don,Blankenship,CST,O,7386,0,0
+President,0,37,NA,North Carolina,Donald,Trump,REP,R,2733600,1,1
+President,0,37,NA,North Carolina,Joe,Biden,DEM,D,2658167,0,1
+President,0,37,NA,North Carolina,Jo,Jorgensen,LIB,O,47332,0,0
+President,0,37,NA,North Carolina,Howie,Hawkins,GRN,O,11864,0,0
+President,0,37,NA,North Carolina,Don,Blankenship,CST,O,7395,0,0
+President,0,37,NA,North Carolina,,Write-ins,WRI,O,5527,0,0
 President,37001,37,37001,Alamance County,Donald,Trump,REP,R,45490,1,1
 President,37001,37,37001,Alamance County,Joe,Biden,DEM,D,38186,0,1
 President,37001,37,37001,Alamance County,Jo,Jorgensen,LIB,O,667,0,0
@@ -33009,12 +33002,11 @@ President,37117,37,37117,Martin County,Joe,Biden,DEM,D,5876,0,1
 President,37117,37,37117,Martin County,Jo,Jorgensen,LIB,O,57,0,0
 President,37117,37,37117,Martin County,Don,Blankenship,CST,O,15,0,0
 President,37117,37,37117,Martin County,Howie,Hawkins,GRN,O,13,0,0
-President,37119,37,37119,Mecklenburg County,Joe,Biden,DEM,D,375503,0,1
-President,37119,37,37119,Mecklenburg County,Donald,Trump,REP,R,178066,1,1
-President,37119,37,37119,Mecklenburg County,Jo,Jorgensen,LIB,O,5332,0,0
-President,37119,37,37119,Mecklenburg County,,Write-ins,WRI,O,1989,0,0
-President,37119,37,37119,Mecklenburg County,Howie,Hawkins,GRN,O,1578,0,0
-President,37119,37,37119,Mecklenburg County,Don,Blankenship,CST,O,750,0,0
+President,37119,37,37119,Mecklenburg County,Joe,Biden,DEM,D,377367,0,1
+President,37119,37,37119,Mecklenburg County,Donald,Trump,REP,R,178848,1,1
+President,37119,37,37119,Mecklenburg County,Jo,Jorgensen,LIB,O,5411,0,0
+President,37119,37,37119,Mecklenburg County,Howie,Hawkins,GRN,O,1606,0,0
+President,37119,37,37119,Mecklenburg County,Don,Blankenship,CST,O,759,0,0
 President,37121,37,37121,Mitchell County,Donald,Trump,REP,R,7041,1,1
 President,37121,37,37121,Mitchell County,Joe,Biden,DEM,D,1852,0,1
 President,37121,37,37121,Mitchell County,Jo,Jorgensen,LIB,O,46,0,0
@@ -33225,10 +33217,10 @@ President,37199,37,37199,Yancey County,Joe,Biden,DEM,D,3678,0,1
 President,37199,37,37199,Yancey County,Jo,Jorgensen,LIB,O,78,0,0
 President,37199,37,37199,Yancey County,Howie,Hawkins,GRN,O,27,0,0
 President,37199,37,37199,Yancey County,Don,Blankenship,CST,O,18,0,0
-Senate,0,37,NA,North Carolina,Thom,Tillis,REP,R,2641032,1,1
-Senate,0,37,NA,North Carolina,Cal,Cunningham,DEM,D,2544560,0,1
-Senate,0,37,NA,North Carolina,Shannon,Bray,LIB,O,168067,0,0
-Senate,0,37,NA,North Carolina,Kevin,Hayes,CST,O,66697,0,0
+Senate,0,37,NA,North Carolina,Thom,Tillis,REP,R,2641904,1,1
+Senate,0,37,NA,North Carolina,Cal,Cunningham,DEM,D,2546165,0,1
+Senate,0,37,NA,North Carolina,Shannon,Bray,LIB,O,168238,0,0
+Senate,0,37,NA,North Carolina,Kevin,Hayes,CST,O,66731,0,0
 Senate,37001,37,37001,Alamance County,Thom,Tillis,REP,R,43714,1,1
 Senate,37001,37,37001,Alamance County,Cal,Cunningham,DEM,D,37444,0,1
 Senate,37001,37,37001,Alamance County,Shannon,Bray,LIB,O,2233,0,0
@@ -33465,10 +33457,10 @@ Senate,37117,37,37117,Martin County,Thom,Tillis,REP,R,6003,1,1
 Senate,37117,37,37117,Martin County,Cal,Cunningham,DEM,D,5933,0,1
 Senate,37117,37,37117,Martin County,Shannon,Bray,LIB,O,256,0,0
 Senate,37117,37,37117,Martin County,Kevin,Hayes,CST,O,157,0,0
-Senate,37119,37,37119,Mecklenburg County,Cal,Cunningham,DEM,D,348530,0,1
-Senate,37119,37,37119,Mecklenburg County,Thom,Tillis,REP,R,185481,1,1
-Senate,37119,37,37119,Mecklenburg County,Shannon,Bray,LIB,O,19523,0,0
-Senate,37119,37,37119,Mecklenburg County,Kevin,Hayes,CST,O,5383,0,0
+Senate,37119,37,37119,Mecklenburg County,Cal,Cunningham,DEM,D,350135,0,1
+Senate,37119,37,37119,Mecklenburg County,Thom,Tillis,REP,R,186353,1,1
+Senate,37119,37,37119,Mecklenburg County,Shannon,Bray,LIB,O,19694,0,0
+Senate,37119,37,37119,Mecklenburg County,Kevin,Hayes,CST,O,5417,0,0
 Senate,37121,37,37121,Mitchell County,Thom,Tillis,REP,R,6687,1,1
 Senate,37121,37,37121,Mitchell County,Cal,Cunningham,DEM,D,1903,0,1
 Senate,37121,37,37121,Mitchell County,Shannon,Bray,LIB,O,179,0,0
@@ -33647,21 +33639,21 @@ House,3707,37,NA,NA,David,Rouzer,REP,R,260544,1,1
 House,3707,37,NA,NA,Christopher,Ward,DEM,D,169738,0,1
 House,3708,37,NA,NA,Richard,Hudson,REP,R,201457,1,1
 House,3708,37,NA,NA,Patricia,Timmons-Goodson,DEM,D,176221,0,1
-House,3709,37,NA,NA,Dan,Bishop,REP,R,221899,1,1
-House,3709,37,NA,NA,Cynthia,Wallace,DEM,D,177472,0,1
+House,3709,37,NA,NA,Dan,Bishop,REP,R,222166,1,1
+House,3709,37,NA,NA,Cynthia,Wallace,DEM,D,177788,0,1
 House,3710,37,NA,NA,Patrick,McHenry,REP,R,281953,1,1
 House,3710,37,NA,NA,David,Parker,DEM,D,126881,0,1
 House,3711,37,NA,NA,Madison,Cawthorn,REP,R,243898,1,1
 House,3711,37,NA,NA,Moe,Davis,DEM,D,189516,0,1
 House,3711,37,NA,NA,Tracey,Debruhl,LIB,O,8565,0,0
 House,3711,37,NA,NA,Tamara,Zwinak,GRN,O,5417,0,0
-House,3712,37,NA,NA,Alma,Adams,DEM,D,339247,1,1
+House,3712,37,NA,NA,Alma,Adams,DEM,D,340813,1,1
 House,3713,37,NA,NA,Ted,Budd,REP,R,214354,1,1
 House,3713,37,NA,NA,Scott,Huffman,DEM,D,99673,0,1
-Governor,0,37,NA,North Carolina,Roy,Cooper,DEM,D,2804754,1,1
-Governor,0,37,NA,North Carolina,Dan,Forest,REP,R,2563877,0,1
-Governor,0,37,NA,North Carolina,Steven,DiFiore,LIB,O,58861,0,0
-Governor,0,37,NA,North Carolina,Al,Pisano,CST,O,20386,0,0
+Governor,0,37,NA,North Carolina,Roy,Cooper,DEM,D,2806545,1,1
+Governor,0,37,NA,North Carolina,Dan,Forest,REP,R,2564628,0,1
+Governor,0,37,NA,North Carolina,Steven,DiFiore,LIB,O,58952,0,0
+Governor,0,37,NA,North Carolina,Al,Pisano,CST,O,20414,0,0
 Governor,37001,37,37001,Alamance County,Dan,Forest,REP,R,42437,0,1
 Governor,37001,37,37001,Alamance County,Roy,Cooper,DEM,D,41269,1,1
 Governor,37001,37,37001,Alamance County,Steven,DiFiore,LIB,O,722,0,0
@@ -33898,10 +33890,10 @@ Governor,37117,37,37117,Martin County,Roy,Cooper,DEM,D,6235,1,1
 Governor,37117,37,37117,Martin County,Dan,Forest,REP,R,6119,0,1
 Governor,37117,37,37117,Martin County,Steven,DiFiore,LIB,O,52,0,0
 Governor,37117,37,37117,Martin County,Al,Pisano,CST,O,30,0,0
-Governor,37119,37,37119,Mecklenburg County,Roy,Cooper,DEM,D,380258,1,1
-Governor,37119,37,37119,Mecklenburg County,Dan,Forest,REP,R,170071,0,1
-Governor,37119,37,37119,Mecklenburg County,Steven,DiFiore,LIB,O,8008,0,0
-Governor,37119,37,37119,Mecklenburg County,Al,Pisano,CST,O,2396,0,0
+Governor,37119,37,37119,Mecklenburg County,Roy,Cooper,DEM,D,382049,1,1
+Governor,37119,37,37119,Mecklenburg County,Dan,Forest,REP,R,170822,0,1
+Governor,37119,37,37119,Mecklenburg County,Steven,DiFiore,LIB,O,8099,0,0
+Governor,37119,37,37119,Mecklenburg County,Al,Pisano,CST,O,2424,0,0
 Governor,37121,37,37121,Mitchell County,Dan,Forest,REP,R,6778,0,1
 Governor,37121,37,37121,Mitchell County,Roy,Cooper,DEM,D,2072,1,1
 Governor,37121,37,37121,Mitchell County,Steven,DiFiore,LIB,O,59,0,0
@@ -39474,11 +39466,11 @@ House,4709,47,NA,NA,Charlotte,Bergmann,REP,R,48688,0,1
 House,4709,47,NA,NA,Dennis,Clark,IND,O,3947,0,0
 House,4709,47,NA,NA,Bobby,Lyons,IND,O,2189,0,0
 Governor,Tennessee,47,NA,NA,NA,NA,NA,NA,NA,NA,NA
-President,0,48,NA,Texas,Donald,Trump,REP,R,5872091,1,1
-President,0,48,NA,Texas,Joe,Biden,DEM,D,5215753,0,1
-President,0,48,NA,Texas,Jo,Jorgensen,LIB,O,125083,0,0
-President,0,48,NA,Texas,Howie,Hawkins,GRN,O,33113,0,0
-President,0,48,NA,Texas,,Write-ins,WRI,O,9581,0,0
+President,0,48,NA,Texas,Donald,Trump,REP,R,5872348,1,1
+President,0,48,NA,Texas,Joe,Biden,DEM,D,5216321,0,1
+President,0,48,NA,Texas,Jo,Jorgensen,LIB,O,125100,0,0
+President,0,48,NA,Texas,Howie,Hawkins,GRN,O,33114,0,0
+President,0,48,NA,Texas,,Write-ins,WRI,O,12265,0,0
 President,48001,48,48001,Anderson County,Donald,Trump,REP,R,15062,1,1
 President,48001,48,48001,Anderson County,Joe,Biden,DEM,D,3934,0,1
 President,48001,48,48001,Anderson County,Jo,Jorgensen,LIB,O,132,0,0
@@ -39734,10 +39726,11 @@ President,48111,48,48111,Dallam County,Donald,Trump,REP,R,1386,1,1
 President,48111,48,48111,Dallam County,Joe,Biden,DEM,D,196,0,1
 President,48111,48,48111,Dallam County,Jo,Jorgensen,LIB,O,18,0,0
 President,48111,48,48111,Dallam County,Howie,Hawkins,GRN,O,5,0,0
-President,48113,48,48113,Dallas County,Joe,Biden,DEM,D,597407,0,1
-President,48113,48,48113,Dallas County,Donald,Trump,REP,R,306572,1,1
-President,48113,48,48113,Dallas County,Jo,Jorgensen,LIB,O,9606,0,0
-President,48113,48,48113,Dallas County,Howie,Hawkins,GRN,O,3660,0,0
+President,48113,48,48113,Dallas County,Joe,Biden,DEM,D,597975,0,1
+President,48113,48,48113,Dallas County,Donald,Trump,REP,R,306829,1,1
+President,48113,48,48113,Dallas County,Jo,Jorgensen,LIB,O,9623,0,0
+President,48113,48,48113,Dallas County,Howie,Hawkins,GRN,O,3661,0,0
+President,48113,48,48113,Dallas County,,Write-ins,WRI,O,2684,0,0
 President,48115,48,48115,Dawson County,Donald,Trump,REP,R,2951,1,1
 President,48115,48,48115,Dawson County,Joe,Biden,DEM,D,808,0,1
 President,48115,48,48115,Dawson County,Jo,Jorgensen,LIB,O,25,0,0
@@ -40630,11 +40623,11 @@ President,48507,48,48507,Zavala County,Joe,Biden,DEM,D,2864,0,1
 President,48507,48,48507,Zavala County,Donald,Trump,REP,R,1490,1,1
 President,48507,48,48507,Zavala County,Jo,Jorgensen,LIB,O,13,0,0
 President,48507,48,48507,Zavala County,Howie,Hawkins,GRN,O,12,0,0
-Senate,0,48,NA,Texas,John,Cornyn,REP,R,5944300,1,1
-Senate,0,48,NA,Texas,"Mary Jennings ""MJ""",Hegar,DEM,D,4859625,0,1
-Senate,0,48,NA,Texas,Kerry,McKennon,LIB,O,208562,0,0
-Senate,0,48,NA,Texas,David,Collins,GRN,O,81545,0,0
-Senate,0,48,NA,Texas,,Write-ins,WRI,O,1775,0,0
+Senate,0,48,NA,Texas,John,Cornyn,REP,R,5944601,1,1
+Senate,0,48,NA,Texas,"Mary Jennings ""MJ""",Hegar,DEM,D,4860114,0,1
+Senate,0,48,NA,Texas,Kerry,McKennon,LIB,O,208582,0,0
+Senate,0,48,NA,Texas,David,Collins,GRN,O,81552,0,0
+Senate,0,48,NA,Texas,,Write-ins,WRI,O,2246,0,0
 Senate,48001,48,48001,Anderson County,John,Cornyn,REP,R,14897,1,1
 Senate,48001,48,48001,Anderson County,"Mary Jennings ""MJ""",Hegar,DEM,D,3773,0,1
 Senate,48001,48,48001,Anderson County,Kerry,McKennon,LIB,O,245,0,0
@@ -40888,10 +40881,11 @@ Senate,48111,48,48111,Dallam County,John,Cornyn,REP,R,1368,1,1
 Senate,48111,48,48111,Dallam County,"Mary Jennings ""MJ""",Hegar,DEM,D,199,0,1
 Senate,48111,48,48111,Dallam County,Kerry,McKennon,LIB,O,21,0,0
 Senate,48111,48,48111,Dallam County,David,Collins,GRN,O,5,0,0
-Senate,48113,48,48113,Dallas County,"Mary Jennings ""MJ""",Hegar,DEM,D,559587,0,1
-Senate,48113,48,48113,Dallas County,John,Cornyn,REP,R,330284,1,1
-Senate,48113,48,48113,Dallas County,Kerry,McKennon,LIB,O,15860,0,0
-Senate,48113,48,48113,Dallas County,David,Collins,GRN,O,8264,0,0
+Senate,48113,48,48113,Dallas County,"Mary Jennings ""MJ""",Hegar,DEM,D,560076,0,1
+Senate,48113,48,48113,Dallas County,John,Cornyn,REP,R,330585,1,1
+Senate,48113,48,48113,Dallas County,Kerry,McKennon,LIB,O,15880,0,0
+Senate,48113,48,48113,Dallas County,David,Collins,GRN,O,8271,0,0
+Senate,48113,48,48113,Dallas County,,Write-ins,WRI,O,471,0,0
 Senate,48115,48,48115,Dawson County,John,Cornyn,REP,R,2827,1,1
 Senate,48115,48,48115,Dawson County,"Mary Jennings ""MJ""",Hegar,DEM,D,738,0,1
 Senate,48115,48,48115,Dawson County,Kerry,McKennon,LIB,O,60,0,0
@@ -41794,9 +41788,9 @@ House,4804,48,NA,NA,Pat,Fallon,REP,R,255039,1,1
 House,4804,48,NA,NA,Russell,Foster,DEM,D,77262,0,1
 House,4804,48,NA,NA,Lou,Antonelli,LIB,O,6340,0,0
 House,4804,48,NA,NA,,Write-ins,WRI,O,1294,0,0
-House,4805,48,NA,NA,Lance,Gooden,REP,R,173251,1,1
-House,4805,48,NA,NA,Carolyn,Salter,DEM,D,100413,0,1
-House,4805,48,NA,NA,Kevin,Hale,LIB,O,5814,0,0
+House,4805,48,NA,NA,Lance,Gooden,REP,R,173294,1,1
+House,4805,48,NA,NA,Carolyn,Salter,DEM,D,100445,0,1
+House,4805,48,NA,NA,Kevin,Hale,LIB,O,5816,0,0
 House,4806,48,NA,NA,Ron,Wright,REP,R,178877,1,1
 House,4806,48,NA,NA,Stephen,Daniel,DEM,D,148783,0,1
 House,4806,48,NA,NA,Melanie,Black,LIB,O,10910,0,0
@@ -42100,16 +42094,15 @@ President,49041,49,49041,Sevier County,Howie,Hawkins,GRN,O,12,0,0
 President,49041,49,49041,Sevier County,Brock,Pierce,IND,O,11,0,0
 President,49041,49,49041,Sevier County,Gloria,La Riva,PSL,O,3,0,0
 President,49041,49,49041,Sevier County,Joe,McHugh,UNA,O,3,0,0
-President,49043,49,49043,Summit County,Joe,Biden,DEM,D,11733,0,1
-President,49043,49,49043,Summit County,Donald,Trump,REP,R,6122,1,1
-President,49043,49,49043,Summit County,Jo,Jorgensen,LIB,O,179,0,0
-President,49043,49,49043,Summit County,Kanye,West,IND,O,35,0,0
-President,49043,49,49043,Summit County,Howie,Hawkins,GRN,O,28,0,0
-President,49043,49,49043,Summit County,Don,Blankenship,CST,O,11,0,0
-President,49043,49,49043,Summit County,Joe,McHugh,UNA,O,8,0,0
-President,49043,49,49043,Summit County,Brock,Pierce,IND,O,8,0,0
-President,49043,49,49043,Summit County,Gloria,La Riva,PSL,O,6,0,0
-President,49043,49,49043,Summit County,,Write-ins,WRI,O,0,0,0
+President,49043,49,49043,Summit County,Joe,Biden,DEM,D,14947,0,1
+President,49043,49,49043,Summit County,Donald,Trump,REP,R,9928,1,1
+President,49043,49,49043,Summit County,Jo,Jorgensen,LIB,O,351,0,0
+President,49043,49,49043,Summit County,Kanye,West,IND,O,82,0,0
+President,49043,49,49043,Summit County,Howie,Hawkins,GRN,O,60,0,0
+President,49043,49,49043,Summit County,Don,Blankenship,CST,O,24,0,0
+President,49043,49,49043,Summit County,Joe,McHugh,UNA,O,18,0,0
+President,49043,49,49043,Summit County,Brock,Pierce,IND,O,17,0,0
+President,49043,49,49043,Summit County,Gloria,La Riva,PSL,O,12,0,0
 President,49045,49,49045,Tooele County,Donald,Trump,REP,R,19531,1,1
 President,49045,49,49045,Tooele County,Joe,Biden,DEM,D,8498,0,1
 President,49045,49,49045,Tooele County,Jo,Jorgensen,LIB,O,891,0,0
@@ -42175,8 +42168,8 @@ President,49057,49,49057,Weber County,Brock,Pierce,IND,O,245,0,0
 President,49057,49,49057,Weber County,Joe,McHugh,UNA,O,178,0,0
 President,49057,49,49057,Weber County,Gloria,La Riva,PSL,O,53,0,0
 Senate,Utah,49,NA,NA,NA,NA,NA,NA,NA,NA,NA
-House,4901,49,NA,NA,Blake,Moore,REP,R,217067,1,1
-House,4901,49,NA,NA,Darren,Parry,DEM,D,95409,0,1
+House,4901,49,NA,NA,Blake,Moore,REP,R,220983,1,1
+House,4901,49,NA,NA,Darren,Parry,DEM,D,98240,0,1
 House,4901,49,NA,NA,,Write-ins,WRI,O,41,0,0
 House,4902,49,NA,NA,Chris,Stewart,REP,R,188184,1,1
 House,4902,49,NA,NA,Kael,Weston,DEM,D,110784,0,1
@@ -42191,10 +42184,10 @@ House,4904,49,NA,NA,Burgess,Owens,REP,R,134874,0,1
 House,4904,49,NA,NA,John,Molnar,LIB,O,8666,0,0
 House,4904,49,NA,NA,Jonia,Broderick,UU,O,5325,0,0
 House,4904,49,NA,NA,,Write-ins,WRI,O,17,0,0
-Governor,0,49,NA,Utah,Spencer,Cox,REP,R,790506,1,1
-Governor,0,49,NA,Utah,Chris,Peterson,DEM,D,374905,0,1
-Governor,0,49,NA,Utah,Daniel,Cottam,LIB,O,41144,0,0
-Governor,0,49,NA,Utah,Greg,Duerden,IAP,O,21363,0,0
+Governor,0,49,NA,Utah,Spencer,Cox,REP,R,794385,1,1
+Governor,0,49,NA,Utah,Chris,Peterson,DEM,D,377635,0,1
+Governor,0,49,NA,Utah,Daniel,Cottam,LIB,O,41389,0,0
+Governor,0,49,NA,Utah,Greg,Duerden,IAP,O,21458,0,0
 Governor,0,49,NA,Utah,,Write-ins,WRI,O,4229,0,0
 Governor,49001,49,49001,Beaver County,Spencer,Cox,REP,R,2447,1,1
 Governor,49001,49,49001,Beaver County,Chris,Peterson,DEM,D,290,0,1
@@ -42284,10 +42277,10 @@ Governor,49041,49,49041,Sevier County,Chris,Peterson,DEM,D,843,0,1
 Governor,49041,49,49041,Sevier County,,Write-ins,WRI,O,372,0,0
 Governor,49041,49,49041,Sevier County,Daniel,Cottam,LIB,O,251,0,0
 Governor,49041,49,49041,Sevier County,Greg,Duerden,IAP,O,248,0,0
-Governor,49043,49,49043,Summit County,Chris,Peterson,DEM,D,10093,0,1
-Governor,49043,49,49043,Summit County,Spencer,Cox,REP,R,7087,1,1
-Governor,49043,49,49043,Summit County,Daniel,Cottam,LIB,O,307,0,0
-Governor,49043,49,49043,Summit County,Greg,Duerden,IAP,O,105,0,0
+Governor,49043,49,49043,Summit County,Chris,Peterson,DEM,D,12823,0,1
+Governor,49043,49,49043,Summit County,Spencer,Cox,REP,R,10966,1,1
+Governor,49043,49,49043,Summit County,Daniel,Cottam,LIB,O,552,0,0
+Governor,49043,49,49043,Summit County,Greg,Duerden,IAP,O,200,0,0
 Governor,49045,49,49045,Tooele County,Spencer,Cox,REP,R,19911,1,1
 Governor,49045,49,49045,Tooele County,Chris,Peterson,DEM,D,6689,0,1
 Governor,49045,49,49045,Tooele County,Daniel,Cottam,LIB,O,1268,0,0
@@ -49984,9 +49977,9 @@ Governor,5002702725,50,50027,Barnard,Wayne,Billado,IND,O,1,0,1
 Governor,5002702725,50,50027,Barnard,Charly,Dickerson,UNA,O,1,0,1
 Governor,5002702725,50,50027,Barnard,Kevin,Hoyt,IND,O,1,0,1
 Governor,5002702725,50,50027,Barnard,Michael,DeVost,IND,O,0,0,1
-President,0,51,NA,Virginia,Joe,Biden,DEM,D,2380862,0,1
-President,0,51,NA,Virginia,Donald,Trump,REP,R,1953847,1,1
-President,0,51,NA,Virginia,Jo,Jorgensen,LIB,O,64283,0,0
+President,0,51,NA,Virginia,Joe,Biden,DEM,D,2383332,0,1
+President,0,51,NA,Virginia,Donald,Trump,REP,R,1958292,1,1
+President,0,51,NA,Virginia,Jo,Jorgensen,LIB,O,64353,0,0
 President,0,51,NA,Virginia,,Write-ins,WRI,O,5255,0,0
 President,51001,51,51001,Accomack County,Donald,Trump,REP,R,9172,1,1
 President,51001,51,51001,Accomack County,Joe,Biden,DEM,D,7578,0,1
@@ -50213,9 +50206,9 @@ President,51147,51,51147,Prince Edward County,Jo,Jorgensen,LIB,O,136,0,0
 President,51149,51,51149,Prince George County,Donald,Trump,REP,R,10106,1,1
 President,51149,51,51149,Prince George County,Joe,Biden,DEM,D,6870,0,1
 President,51149,51,51149,Prince George County,Jo,Jorgensen,LIB,O,188,0,0
-President,51153,51,51153,Prince William County,Joe,Biden,DEM,D,139502,0,1
-President,51153,51,51153,Prince William County,Donald,Trump,REP,R,76432,1,1
-President,51153,51,51153,Prince William County,Jo,Jorgensen,LIB,O,3141,0,0
+President,51153,51,51153,Prince William County,Joe,Biden,DEM,D,141946,0,1
+President,51153,51,51153,Prince William County,Donald,Trump,REP,R,80826,1,1
+President,51153,51,51153,Prince William County,Jo,Jorgensen,LIB,O,3209,0,0
 President,51155,51,51155,Pulaski County,Donald,Trump,REP,R,12127,1,1
 President,51155,51,51155,Pulaski County,Joe,Biden,DEM,D,4925,0,1
 President,51155,51,51155,Pulaski County,Jo,Jorgensen,LIB,O,275,0,0
@@ -50278,9 +50271,9 @@ President,51193,51,51193,Westmoreland County,Donald,Trump,REP,R,5286,1,1
 President,51193,51,51193,Westmoreland County,Joe,Biden,DEM,D,4453,0,1
 President,51193,51,51193,Westmoreland County,Jo,Jorgensen,LIB,O,90,0,0
 President,51193,51,51193,Westmoreland County,,Write-ins,WRI,O,24,0,0
-President,51195,51,51195,Wise County,Donald,Trump,REP,R,13315,1,1
-President,51195,51,51195,Wise County,Joe,Biden,DEM,D,3084,0,1
-President,51195,51,51195,Wise County,Jo,Jorgensen,LIB,O,106,0,0
+President,51195,51,51195,Wise County,Donald,Trump,REP,R,13366,1,1
+President,51195,51,51195,Wise County,Joe,Biden,DEM,D,3110,0,1
+President,51195,51,51195,Wise County,Jo,Jorgensen,LIB,O,108,0,0
 President,51197,51,51197,Wythe County,Donald,Trump,REP,R,11733,1,1
 President,51197,51,51197,Wythe County,Joe,Biden,DEM,D,3143,0,1
 President,51197,51,51197,Wythe County,Jo,Jorgensen,LIB,O,170,0,0
@@ -50405,8 +50398,8 @@ President,51830,51,51830,Williamsburg city,Jo,Jorgensen,LIB,O,92,0,0
 President,51840,51,51840,Winchester city,Joe,Biden,DEM,D,6451,0,1
 President,51840,51,51840,Winchester city,Donald,Trump,REP,R,5156,1,1
 President,51840,51,51840,Winchester city,Jo,Jorgensen,LIB,O,205,0,0
-Senate,0,51,NA,Virginia,Mark,Warner,DEM,D,2422264,1,1
-Senate,0,51,NA,Virginia,Daniel,Gade,REP,R,1916188,0,1
+Senate,0,51,NA,Virginia,Mark,Warner,DEM,D,2426197,1,1
+Senate,0,51,NA,Virginia,Daniel,Gade,REP,R,1917935,0,1
 Senate,51001,51,51001,Accomack County,Daniel,Gade,REP,R,8863,0,1
 Senate,51001,51,51001,Accomack County,Mark,Warner,DEM,D,7939,1,1
 Senate,51003,51,51003,Albemarle County,Mark,Warner,DEM,D,42395,1,1
@@ -50551,8 +50544,8 @@ Senate,51147,51,51147,Prince Edward County,Mark,Warner,DEM,D,5195,1,1
 Senate,51147,51,51147,Prince Edward County,Daniel,Gade,REP,R,4291,0,1
 Senate,51149,51,51149,Prince George County,Daniel,Gade,REP,R,9842,0,1
 Senate,51149,51,51149,Prince George County,Mark,Warner,DEM,D,7199,1,1
-Senate,51153,51,51153,Prince William County,Mark,Warner,DEM,D,140876,1,1
-Senate,51153,51,51153,Prince William County,Daniel,Gade,REP,R,77542,0,1
+Senate,51153,51,51153,Prince William County,Mark,Warner,DEM,D,144779,1,1
+Senate,51153,51,51153,Prince William County,Daniel,Gade,REP,R,79244,0,1
 Senate,51155,51,51155,Pulaski County,Daniel,Gade,REP,R,11203,0,1
 Senate,51155,51,51155,Pulaski County,Mark,Warner,DEM,D,5941,1,1
 Senate,51157,51,51157,Rappahannock County,Daniel,Gade,REP,R,2734,0,1
@@ -50591,8 +50584,8 @@ Senate,51191,51,51191,Washington County,Daniel,Gade,REP,R,20655,0,1
 Senate,51191,51,51191,Washington County,Mark,Warner,DEM,D,7744,1,1
 Senate,51193,51,51193,Westmoreland County,Daniel,Gade,REP,R,5009,0,1
 Senate,51193,51,51193,Westmoreland County,Mark,Warner,DEM,D,4821,1,1
-Senate,51195,51,51195,Wise County,Daniel,Gade,REP,R,12051,0,1
-Senate,51195,51,51195,Wise County,Mark,Warner,DEM,D,4098,1,1
+Senate,51195,51,51195,Wise County,Daniel,Gade,REP,R,12096,0,1
+Senate,51195,51,51195,Wise County,Mark,Warner,DEM,D,4128,1,1
 Senate,51197,51,51197,Wythe County,Daniel,Gade,REP,R,10787,0,1
 Senate,51197,51,51197,Wythe County,Mark,Warner,DEM,D,4043,1,1
 Senate,51199,51,51199,York County,Daniel,Gade,REP,R,20380,0,1
@@ -50673,8 +50666,8 @@ Senate,51830,51,51830,Williamsburg city,Mark,Warner,DEM,D,4811,1,1
 Senate,51830,51,51830,Williamsburg city,Daniel,Gade,REP,R,2020,0,1
 Senate,51840,51,51840,Winchester city,Mark,Warner,DEM,D,6745,1,1
 Senate,51840,51,51840,Winchester city,Daniel,Gade,REP,R,5009,0,1
-House,5101,51,NA,NA,Rob,Wittman,REP,R,258412,1,1
-House,5101,51,NA,NA,Qasim,Rashid,DEM,D,183828,0,1
+House,5101,51,NA,NA,Rob,Wittman,REP,R,259374,1,1
+House,5101,51,NA,NA,Qasim,Rashid,DEM,D,185197,0,1
 House,5102,51,NA,NA,Elaine,Luria,DEM,D,182104,1,1
 House,5102,51,NA,NA,Scott,Taylor,REP,R,163046,0,1
 House,5102,51,NA,NA,David,Foster,IND,O,8980,0,0
@@ -50690,11 +50683,11 @@ House,5107,51,NA,NA,Abigail,Spanberger,DEM,D,228067,1,1
 House,5107,51,NA,NA,Nick,Freitas,REP,R,222422,0,1
 House,5108,51,NA,NA,Donald,Beyer,DEM,D,293303,1,1
 House,5108,51,NA,NA,Jeff,Jordan,REP,R,93931,0,1
-House,5109,51,NA,NA,Morgan,Griffith,REP,R,271356,1,1
-House,5110,51,NA,NA,Jennifer,Wexton,DEM,D,263710,1,1
-House,5110,51,NA,NA,Aliscia,Andrews,REP,R,203181,0,1
-House,5111,51,NA,NA,Gerry,Connolly,DEM,D,271479,1,1
-House,5111,51,NA,NA,Manga,Anantatmula,REP,R,107420,0,1
+House,5109,51,NA,NA,Morgan,Griffith,REP,R,271410,1,1
+House,5110,51,NA,NA,Jennifer,Wexton,DEM,D,264255,1,1
+House,5110,51,NA,NA,Aliscia,Andrews,REP,R,203536,0,1
+House,5111,51,NA,NA,Gerry,Connolly,DEM,D,273250,1,1
+House,5111,51,NA,NA,Manga,Anantatmula,REP,R,107981,0,1
 Governor,Virginia,51,NA,NA,NA,NA,NA,NA,NA,NA,NA
 President,0,53,NA,Washington,Joe,Biden,DEM,D,2286324,0,1
 President,0,53,NA,Washington,Donald,Trump,REP,R,1498301,1,1
