@@ -7,12 +7,13 @@
 ## Columns
 
 - `race`: President, Senate, House, Governor
-- `id`: 0 for all states (Presidential and Senate races); five-digit county FIPS code for counties (Presidential and Senate Races); or four-digit State FIPS + House District for House races. Note zero padding. This column 
-should be parsed as 
-character, not numeric.
+- `id`: Variable length character. Codes are: "0" for all states (Presidential and Senate races), identify states using `fips_char` instead; five-digit county FIPS code for counties (Presidential and Senate Races); 
+*ten*-digit FIPS location code for township or similar location (first five characters are county FIPS); or (for House races only) a four-digit code with two-digit State FIPS + two-digit House District. Note zero padding. 
+This column should be parsed as character, not numeric.
 - `fips_char`: Two digit state FIPS code. Note zero padding. This column should be parsed as character, not numeric.
 - `fips5`: Five digit FIPS code identifying the county the place is in. Note zero padding. This column should be parsed as character, not numeric.
-- `place`: State name, or place name. House races are reported by District and have NA for place names. Presidential, Senate, and Governor results are reported by township or similar location. Place is not county! To get 
+- `place`: State name, or place name. House races are reported by District and have NA for place names. In some states (for example, Vermont), the Presidential, Senate, and Governor results are reported by township or 
+similar location, not county. Thus, (a) place is not county and (b) if you filter out rows where `id` = 0 (i.e., whole states), the rows you are left with are still are not unique counties  To get 
 true county-level results for these races you will have to aggregate vote counts in the rows by `fips5`. 
 - `fname`: Candidate first name
 - `lname`: Candidate last name
