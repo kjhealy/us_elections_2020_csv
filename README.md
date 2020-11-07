@@ -2,13 +2,18 @@
 ## @kjhealy
 
 - Results as of YYYY_MM_DD_HH_MM_SS timestamp in file title. Not final.
+- NB The unit of observation in these rows varies. See below.
 
 ## Columns
 
-- `race`: President, Senate, House
-- `fips_char`: State FIPS code
-- `place`: State name, or ciybtt name. House races are reported by District and have NA for place names.
-- `id`: 0 for all states (Presidential and Senate races); five-digit county FIPS code for counties (Presidential and Senate Races); or four-digit State FIPS + House District for House races.
+- `race`: President, Senate, House, Governor
+- `id`: 0 for all states (Presidential and Senate races); five-digit county FIPS code for counties (Presidential and Senate Races); or four-digit State FIPS + House District for House races. Note zero padding. This column 
+should be parsed as 
+character, not numeric.
+- `fips_char`: Two digit state FIPS code. Note zero padding. This column should be parsed as character, not numeric.
+- `fips5`: Five digit FIPS code identifying the county the place is in. Note zero padding. This column should be parsed as character, not numeric.
+- `place`: State name, or place name. House races are reported by District and have NA for place names. Presidential, Senate, and Governor results are reported by township or similar location. Place is not county! To get 
+true county-level results for these races you will have to aggregate vote counts in the rows by `fips5`. Note also the coding of "Cook Suburbs"
 - `fname`: Candidate first name
 - `lname`: Candidate last name
 - `party`: Three-letter party code
