@@ -179,6 +179,7 @@ true county-level results for these races you will have to aggregate vote counts
 - `pab`: One letter party code
 - `votes`: N votes
 - `incumbent`: 1 = is incumbent, 0 otherwise
+- `mpc`: 1 if candidate is a main party candidate (Rep or Dem), 0 otherwise
 
 ## FIPS codes
 The state-level FIPS codes, extracted from a page at the [NRCS](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696), are in `fips.csv`. The columns are as follows:
