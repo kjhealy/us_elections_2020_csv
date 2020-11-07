@@ -173,7 +173,7 @@ results_df %>%
 - `place`: State name, or place name. House races are reported by District and have NA for place names. In some states (for example, Vermont), the Presidential, Senate, and Governor results are reported by township or 
 similar location, not county. Thus, (a) place is not county and (b) if you filter out rows where `id` = 0 (i.e., whole states), the rows you are left with are still are not unique counties  To get 
 true county-level results for these races you will have to aggregate vote counts in the rows by `fips5`. 
-- `Fname`: Candidate first name
+- `fname`: Candidate first name
 - `lname`: Candidate last name
 - `party`: Three-letter party code
 - `pab`: One letter party code
