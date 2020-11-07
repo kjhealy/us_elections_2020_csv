@@ -8254,12 +8254,12 @@ President,17203,17,17203,Woodford County,Howie,Hawkins,GRN,O,98,0,0
 President,17203,17,17203,Woodford County,,Write-ins,WRI,O,66,0,0
 President,17203,17,17203,Woodford County,Brian,Carroll,ASP,O,39,0,0
 President,17203,17,17203,Woodford County,Gloria,La Riva,PSL,O,12,0,0
-President,00000,17,00000,Cook Suburbs,Joe,Biden,DEM,D,614268,0,1
-President,00000,17,00000,Cook Suburbs,Donald,Trump,REP,R,326048,1,1
-President,00000,17,00000,Cook Suburbs,Jo,Jorgensen,LIB,O,7354,0,0
-President,00000,17,00000,Cook Suburbs,Howie,Hawkins,GRN,O,4370,0,0
-President,00000,17,00000,Cook Suburbs,Brian,Carroll,ASP,O,1129,0,0
-President,00000,17,00000,Cook Suburbs,Gloria,La Riva,PSL,O,1088,0,0
+President,00000,17,17031,Cook Suburbs,Joe,Biden,DEM,D,614268,0,1
+President,00000,17,17031,Cook Suburbs,Donald,Trump,REP,R,326048,1,1
+President,00000,17,17031,Cook Suburbs,Jo,Jorgensen,LIB,O,7354,0,0
+President,00000,17,17031,Cook Suburbs,Howie,Hawkins,GRN,O,4370,0,0
+President,00000,17,17031,Cook Suburbs,Brian,Carroll,ASP,O,1129,0,0
+President,00000,17,17031,Cook Suburbs,Gloria,La Riva,PSL,O,1088,0,0
 Senate,0,17,NA,Illinois,Dick,Durbin,DEM,D,2883783,1,1
 Senate,0,17,NA,Illinois,Mark,Curran,REP,R,2198538,0,1
 Senate,0,17,NA,Illinois,Willie,Wilson,OTH,O,214893,0,0
@@ -8872,11 +8872,11 @@ Senate,17203,17,17203,Woodford County,Danny,Malouf,LIB,O,360,0,0
 Senate,17203,17,17203,Woodford County,Willie,Wilson,OTH,O,163,0,0
 Senate,17203,17,17203,Woodford County,David,Black,GRN,O,136,0,0
 Senate,17203,17,17203,Woodford County,,Write-ins,WRI,O,4,0,0
-Senate,00000,17,00000,Cook Suburbs,Dick,Durbin,DEM,D,571536,1,1
-Senate,00000,17,00000,Cook Suburbs,Mark,Curran,REP,R,296723,0,1
-Senate,00000,17,00000,Cook Suburbs,Willie,Wilson,OTH,O,53698,0,0
-Senate,00000,17,00000,Cook Suburbs,Danny,Malouf,LIB,O,9479,0,0
-Senate,00000,17,00000,Cook Suburbs,David,Black,GRN,O,8317,0,0
+Senate,00000,17,17031,Cook Suburbs,Dick,Durbin,DEM,D,571536,1,1
+Senate,00000,17,17031,Cook Suburbs,Mark,Curran,REP,R,296723,0,1
+Senate,00000,17,17031,Cook Suburbs,Willie,Wilson,OTH,O,53698,0,0
+Senate,00000,17,17031,Cook Suburbs,Danny,Malouf,LIB,O,9479,0,0
+Senate,00000,17,17031,Cook Suburbs,David,Black,GRN,O,8317,0,0
 House,1701,17,NA,NA,Bobby,Rush,DEM,D,204239,1,1
 House,1701,17,NA,NA,Philanise,White,REP,R,77738,0,1
 House,1702,17,NA,NA,Robin,Kelly,DEM,D,206745,1,1

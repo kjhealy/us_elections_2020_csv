@@ -13,7 +13,7 @@ character, not numeric.
 - `fips_char`: Two digit state FIPS code. Note zero padding. This column should be parsed as character, not numeric.
 - `fips5`: Five digit FIPS code identifying the county the place is in. Note zero padding. This column should be parsed as character, not numeric.
 - `place`: State name, or place name. House races are reported by District and have NA for place names. Presidential, Senate, and Governor results are reported by township or similar location. Place is not county! To get 
-true county-level results for these races you will have to aggregate vote counts in the rows by `fips5`. Note also the coding of "Cook Suburbs"
+true county-level results for these races you will have to aggregate vote counts in the rows by `fips5`. 
 - `fname`: Candidate first name
 - `lname`: Candidate last name
 - `party`: Three-letter party code
